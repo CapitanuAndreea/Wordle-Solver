@@ -1,4 +1,4 @@
-#Wordle
+# Wordle
 
 This project contains a **copy of the game Wordle** and a **solver** using **Information Theory (Entropy)**.
 
